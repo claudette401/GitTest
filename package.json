@@ -1,0 +1,19 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "testing node.js and npm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudette401/GitTest.git"
+  },
+  "author": "Claudette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudette401/GitTest/issues"
+  },
+  "homepage": "https://github.com/claudette401/GitTest#readme"
+}
